@@ -1,0 +1,57 @@
+There are a number of trends that can be gleaned from the data, but at a high overview three large trends stand out:
+
+1) The correlation between gender and average purchase value.
+2) The correlation between age and average purchase value.
+3) The overall bellcurve nature of the playerbase profile.
+
+1) Gender and Average Purchase Value
+
+The gender breakdown of Heroes roughly matches a common demographic in the gaming industry where most of the players are male.
+This is not uncommon and a presumable RPG like Heroes would fit the standard industry profile. However, what is interesting
+about this data is that males, though they comprised 84.03% of the player base, they ranked last in average total purchase
+per person. The average purchase price was $3.05. The male average purchase price was $3.02. However, the other/non-disclosed
+and Female demographics were approximately 50% above the total average purchase price at $4.47 and $4.56. There are a number of hyotheses
+that could test why this is the case. But a plausible conjecture is that in the non-male demographics, those who do play this type of 
+game are more invested which correlates to putting more money into the game, whereas there may be more casual players in the male demographic
+who will only prefer free-to-play (f2p) options and not what is commonly called pay-to-win (p2w) monetization strategies. 
+
+Also, it is an interesting time to be doing game analysis as Twitch and the esports industry are enduring a wave of sexual allegations
+and a #metoo movement from female streamers and professionals who have been harrassed. The overwhelmingly male-focused nature of the
+industry has often created an environment hostile or unfavorable to women. Many women are in positions of economic and professional
+vulnerability because of the power dynamics that can be created by this demographic skew. Thus women and non-disclosed genders who are in gaming
+may be more interested in gaming than the average player. This is just a conjecture, but further insight could be developed to look at the different profiles
+and levels of committment of gamers by gender.
+
+2) The Correlation between Age and Average Purchase Value.
+
+The Average Purchase Value correlates to predictable patterns of human behavior. The Total Purchase Value roughly correlates to the steep
+bell-curve distribution of the overall player base. However, the only four age brackets to go above $4.00 per person were the <10, 20-24, and then
+30-39 age group. There may be several reasons for this. A big possibility is that income generally increases with age as people get more education,
+training, and experience. Thus they have more discretionary income to spend and sometimes less time to devote to leisure activities. Thus someone
+with more money and less time would be more incentivize to pay for items in a game (p2w) as opposed to grinding out items (f2p).  Thus it makes
+sense that the entire decade of the 30s has an average purchase price. The 40+ bracket is so small with only 12 players, that it is hard to
+extrapolate the data beyond that range.
+
+The other two over $4.00 segments are the <10 group and then the 20-24 bracket. Both of these make sense. The <10 is so high presumably from
+parents willing to pay to help their young child be competitive or enjoy the game. And then the 20-24 is the main demographic of the game and if
+engagement equates to more money expenditure it would make sense why this brakcet also has a higher average purchase price.
+
+Thus in summary, the data seems to reflect common behavioral and age tendencies of people in general. But this insight could be used to optimize
+items and monetization strategies in the game by understanding more deeply the behaviors and interests of the player base.
+
+3)The Distribution of the Playerbase 
+
+Finally, I did a quick histogram of many of the datasets and in almost all demographic categories the overall profile of the playerbase is marked
+by a steep bellcurve. Over half of the players are in their twenties and the tails of the curve fall off rapidly. The right-tail of the distribution
+is a bit more elongated than the left. Almost 77% of the playerbase falls between 15 and 29. The starkness of the gender gap, as discussed above,
+also shows the narrow range of the average player profile. As just one example, the age and gender of the top 5 spenders are:
+
+#1 Male, 25
+#2 Male, 24
+#3 Female, 22
+#4 Male, 21
+#5 Male, 20
+
+This fits the overall population and gender distribution of the dataset. Customer profiles are extremely valuable and profitable for companies.
+It seems that this game is tailored to a very narrow late-teen and twenties type of gamer. Engagement, and monetary committment generally follow
+this same pattern and are useful for understanding what content and marketing schemes reach this demographic effectively. 
